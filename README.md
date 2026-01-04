@@ -83,6 +83,15 @@ al ecosistema del JcDuro Dashboard.
 
 --- 
 
+## 🙋‍♂️ Ayuda para mejorar el Excel
+
+Estoy buscando colaboración para mejorar estilos y formato del Excel exportado
+(encabezados, colores, anchos de columna, acentos, etc.).
+
+👉 Puedes ver los detalles aquí:  
+[Mejorar estilos y formato del Excel exportado (PhpSpreadsheet)](https://github.com/jcduro/Convert_Excel_PHP_MYSQL_JS/issues/1)
+
+
 ## 🚀 Instalación
 
 1. Clonar o copiar el módulo dentro de tu proyecto (por ejemplo en `proyectos/dashjc/convexcel/`).
