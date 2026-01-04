@@ -7,23 +7,6 @@ anchos de columna autoajustados) usando PhpSpreadsheet.
 
 ---
 
-## 🖼️ Vista previa
-
-![Conver_Excel](previewexcel.gif)
-
---- 
-
-## 🚀 Demo
-[Conver_Excel](https://jcduro.bexartideas.com/proyectos/dashjc/convexcel/convexcel.php)
-
---- 
-
-## 📊 Lenguajes y Herramientas
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,github,vscode,windows,&theme=light&perline=8)](https://skillicons.dev)
-
---- 
-
 ## 📚 Índice
 
 - [Descripción](#-descripción)
@@ -53,6 +36,23 @@ al ecosistema del JcDuro Dashboard.
 - Encabezados con negrita, fondo de color y bordes en toda la tabla.
 - Anchos de columna autoajustados al contenido y primera fila congelada en Excel.
 - Integración con las plantillas globales del dashboard (header, menú, footer).
+
+---
+
+## 🖼️ Vista previa
+
+![Conver_Excel](previewexcel.gif)
+
+--- 
+
+## 🚀 Demo
+[Conver_Excel](https://jcduro.bexartideas.com/proyectos/dashjc/convexcel/convexcel.php)
+
+--- 
+
+## 📊 Lenguajes y Herramientas
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,github,vscode,windows,&theme=light&perline=8)](https://skillicons.dev)
 
 --- 
 
