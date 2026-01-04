@@ -18,7 +18,7 @@
 
 
 <?php
-require_once __DIR__ . "conexion.php"; 
+require_once __DIR__ . "/conexion.php"; 
 
 $stmt = $pdo->query(
     "SELECT id, nombre, correo, telefono, pais, ciudad, fecha_registro
