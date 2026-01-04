@@ -19,7 +19,7 @@
 
 <?php
 // Incluir tu conexión PDO
-require_once __DIR__ . '/ruta/a/db.php'; // AJUSTA ESTA RUTA
+require_once __DIR__ . '/conexion.php'; // AJUSTA ESTA RUTA
 
 ?>
 <!DOCTYPE html>
