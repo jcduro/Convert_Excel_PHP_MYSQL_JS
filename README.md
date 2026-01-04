@@ -88,11 +88,17 @@ al ecosistema del JcDuro Dashboard.
 Estoy buscando colaboración para mejorar estilos y formato del Excel exportado
 (encabezados, colores, anchos de columna, acentos, etc.).
 
-👉 Puedes ver los detalles aquí:  
-[Mejorar estilos y formato del Excel exportado (PhpSpreadsheet)](https://github.com/jcduro/Convert_Excel_PHP_MYSQL_JS/issues/1)
+--- 
 
+## 🤝 Contribuciones
+
+Las contribuciones son bienvenidas.  
+Si quieres ayudar, revisa los [issues abiertos](https://github.com/jcduro/Convert_Excel_PHP_MYSQL_JS/issues)
+y en especial el issue sobre la mejora de estilos del Excel.
+
+--- 
 
 ## 🚀 Instalación
 
-1. Clonar o copiar el módulo dentro de tu proyecto (por ejemplo en `proyectos/dashjc/convexcel/`).
+1. Clonar o copiar el módulo dentro de tu proyecto (por ejemplo en `/convexcel/`).
 2. Verificar que la conexión PDO global (`db.php`) esté configurada correctamente (host, base de datos, usuario, contraseña).
