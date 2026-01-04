@@ -31,9 +31,7 @@ anchos de columna autoajustados) usando PhpSpreadsheet.
 - [Tecnologías](#-tecnologías)
 - [Arquitectura y flujo](#-arquitectura-y-flujo)
 - [Instalación](#-instalación)
-- [Uso](#-uso)
-- [Preview](#-preview)
-- [Roadmap](#-roadmap)
+
 
 --- 
 
