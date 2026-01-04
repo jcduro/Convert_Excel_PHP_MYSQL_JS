@@ -9,12 +9,12 @@ anchos de columna autoajustados) usando PhpSpreadsheet.
 
 ## 🖼️ Vista previa
 
-![Take_Notes](previewexceñ.gif)
+![Conver_Excel](previewexcel.gif)
 
 --- 
 
 ## 🚀 Demo
-[Take_Notes](https://jcduro.bexartideas.com/proyectos/dashjc/convexcel/convexcel.php)
+[Conver_Excel](https://jcduro.bexartideas.com/proyectos/dashjc/convexcel/convexcel.php)
 
 --- 
 
