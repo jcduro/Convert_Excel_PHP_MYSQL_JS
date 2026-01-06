@@ -28,6 +28,22 @@ $stmt = $pdo->query(
 $rows = $stmt->fetchAll();
 ?>
 
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Update</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <!-- Font Awesome para iconos (si no lo tienes ya en el layout) -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"/>
+  <link rel="stylesheet" href="css/lista.css"/>
+
+</head>
+<body>
+ 
+
+
 <?php if (!$rows): ?>
   <p class="vacio">Sin registros aún</p>
 <?php else: ?>
