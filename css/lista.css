@@ -1,0 +1,80 @@
+
+
+/* ---------- Listado Neon ---------- */
+.listado-neon{
+  width:100%;
+  max-width:900px;
+  margin:50px auto 30px;
+  padding:20px;
+  border:1px solid var(--landing-neon);
+  border-radius:15px;
+  box-shadow:0 0 20px var(--landing-neon),inset 0 0 10px var(--landing-neon);
+  background:rgba(0,0,0,.85);
+}
+.listado-neon h3{
+  text-align:center;
+  color:var(--landing-neon);
+  text-shadow:0 0 8px var(--landing-neon);
+  margin-bottom:15px;
+}
+.vacio{
+  text-align:center;
+  color:#888;
+}
+.tabla-cont{overflow-x:auto}          /* responsivo */
+.neon-table{
+  width:100%;
+  border-collapse:collapse;
+  font-size:.95rem;
+  color:var(--white-white);
+}
+.neon-table th,
+.neon-table td{
+  padding:8px 10px;
+  border:1px solid var(--landing-neon);
+  text-align:center;
+}
+.neon-table th{
+  background:#00aabb22;
+  color: var(--landing-neon);
+  text-shadow:0 0 5px var(--landing-neon);
+}
+.neon-table tr:nth-child(even){background:#111}
+.neon-table tr:hover{background:#003333}
+
+
+.flash-ok{
+  background:#00f3ff22;
+  color: var(--landing-neon);
+  text-align:center;
+  padding:8px;
+  margin-bottom:15px;
+  border:1px solid var(--landing-neon);
+  border-radius:5px;
+  text-shadow:0 0 5px var(--landing-neon);
+}
+
+/* Responsivo */
+@media (max-width: 600px) {
+  .form-container {
+    padding: 20px;
+  }
+
+  h2 {
+    font-size: 1.3rem;
+  }
+
+  input, select, button {
+    font-size: 0.95rem;
+  }
+}
+
+
+/* móviles */
+@media(max-width:600px){
+  .neon-table{font-size:.8rem}
+  .neon-table th,
+  .neon-table td{padding:6px 8px}
+}
+
+
