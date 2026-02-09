@@ -98,6 +98,17 @@ y en especial el issue sobre la mejora de estilos del Excel.
 
 --- 
 
+## 📄 Licencia
+Libre, usalo como quieras
+<div align="center">
+  Hecho con 💙 y neones
+</div>
+
+---
+
+## ⭐ Si te gustó este proyecto, no olvides dejar una estrella en GitHub!
+
+
 ## 🚀 Instalación
 
 1. Clonar o copiar el módulo dentro de tu proyecto (por ejemplo en `/convexcel/`).
